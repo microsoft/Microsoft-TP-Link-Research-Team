@@ -17,7 +17,7 @@ TP-Link Omada er605 1.0.1 through (v2.6) 2.2.3
 CVE-2024-25139
 
 ## Patch for the vulnerability
-[ER605(UN)_v2_2.2.4 Build 020240119.zip](https://static.tp-link.com/upload/firmware/2024/202401/20240124/ER605(UN)_v2_2.2.4%20Build%2020240119.zip)
+[ER605(UN)_v2_2.2.4 Build 020240119.zip](https://community.tp-link.com/en/business/forum/topic/653062)
 
 ## Affected Component
 cloud-brd binary. 
