@@ -1,15 +1,14 @@
 # Microsoft-TP-Link-Research-Team
-Microsoft researcher discovered LPE vulnerability in TP-Link Omada ER605 V1.0.1 through (v2.6) 2.2.3, 
-
+Microsoft researcher discovered LPE vulnerability in TP-Link Omada ER605 V1.0.1 through (v2.6) 2.2.3
 
 ## Vulnerability description
 In TP-Link Omada er605 1.0.1 through (v2.6) 2.2.3, a cloud-brd binary is susceptible to an integer overflow that leads to a heap-based 
 buffer overflow. After heap shaping, an attacker can achieve code 
 execution in the context of the cloud-brd binary that runs at the root 
-level. This is fixed in ER605v2_un_2.2.3_20240102-rel63857_up_2024-01-03. 
+level. This is fixed in ER605(UN)_v2_2.2.4 Build 020240119.
 
 ## Vulnerability Type
-Buffer Overflow 
+Buffer Overflow, Local Privilege Escalation
 
 ## Affected Product version
 TP-Link Omada er605 1.0.1 through (v2.6) 2.2.3 
@@ -27,4 +26,6 @@ cloud-brd binary.
 [TP-Link Omada](https://www.tp-link.com/us/omada-sdn/)
 
 ## Researchers
-Vladimir Tokarev, Omri Ben-Bassat 
+Vladimir Tokarev(@G1ND1L4)
+
+Omri Ben-Bassat(@beta_b0t)
