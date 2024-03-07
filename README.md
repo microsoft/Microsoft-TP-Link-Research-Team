@@ -1,5 +1,5 @@
-# Microsoft-TP-Link-Research-Team
-Microsoft researcher discovered LPE vulnerability in TP-Link Omada ER605 V1.0.1 through (v2.6) 2.2.3
+# CPS Research Team
+Microsoft researchers discovered LPE vulnerability in TP-Link Omada ER605 V1.0.1 through (v2.6) 2.2.3
 
 ## Vulnerability description
 In TP-Link Omada er605 1.0.1 through (v2.6) 2.2.3, a cloud-brd binary is susceptible to an integer overflow that leads to a heap-based 
