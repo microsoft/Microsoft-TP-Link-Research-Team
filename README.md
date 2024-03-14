@@ -25,6 +25,8 @@ cloud-brd binary.
 ## Reference
 [TP-Link Omada](https://www.tp-link.com/us/omada-sdn/)
 
+[CVE-2024-25139](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25139)
+
 ## Researchers
 Vladimir Tokarev(@G1ND1L4)
 
